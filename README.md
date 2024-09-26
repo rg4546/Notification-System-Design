@@ -2,9 +2,11 @@
 Notification System Using Java
 # Compile the Project 
 Use Maven to compile the project.
+
 mvn clean compile
 # Build the Project
 mvn package.
+
 This will package your project into a JAR file located in the target directory.
 # Clean the Build
 mvn clean.
